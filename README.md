@@ -1,4 +1,3 @@
-# assignment--sql-database-design
 
 # assignment--sql-database-design
 
